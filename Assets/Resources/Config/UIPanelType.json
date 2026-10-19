@@ -1,0 +1,44 @@
+{
+  "PanelData": [
+    {
+      "PanelTypeString": "MainPanel",
+      "path": "UIPrefabs/MainPanel"
+    },
+    {
+      "PanelTypeString": "CharacterPanel",
+      "path": "UIPrefabs/CharacterPanel"
+    },
+    {
+      "PanelTypeString": "CharacterAttributePanel",
+      "path": "UIPrefabs/CharacterAttributePanel"
+    },
+    {
+      "PanelTypeString": "FriendPanel",
+      "path": "UIPrefabs/FriendPanel"
+    },
+    {
+      "PanelTypeString": "InvitePanel",
+      "path": "UIPrefabs/InvitePanel"
+    },
+    {
+      "PanelTypeString": "InputTeamIDPanel",
+      "path": "UIPrefabs/InputTeamIDPanel"
+    },
+    {
+      "PanelTypeString": "InvitedPanel",
+      "path": "UIPrefabs/InvitedPanel"
+    },
+    {
+      "PanelTypeString": "SettingPanel",
+      "path": "UIPrefabs/SettingPanel"
+    },
+    {
+      "PanelTypeString": "UpdatePanel",
+      "path": "UIPrefabs/UpdatePanel"
+    },
+    {
+      "PanelTypeString": "LoginAndRegisterPanel",
+      "path": "UIPrefabs/LoginAndRegisterPanel"
+    }
+  ]
+}

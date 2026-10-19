@@ -1,0 +1,7 @@
+# 英雄数值表 —— 由 Unity 菜单「Tools/导出 1v1 英雄数据」从 Assets/Resources/Config/CharacterInfo.json 生成，勿手改
+# 第一列是【客户端英雄下标，0 起】，与 38/46/41 里传的 HeroId 同口径，不是 json 里的 id 字段（那个是 1 起）
+# id hp attack shape range size windupMs attackIntervalMs reloadMsPerShell
+0 5000 1400 fan 4 75 275 850 1500
+1 2800 1080 rect 3.3 1 150 670 1200
+2 2400 480 rect 8 0.4 280 630 1500
+3 3000 600 rect 7.7 0.4 300 670 1500

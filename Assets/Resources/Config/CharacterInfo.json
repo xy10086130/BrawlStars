@@ -1,0 +1,72 @@
+{
+  "CharacterInfo": [
+    {
+      "id": 1,
+      "name": "BIBI",
+      "type": "强攻",
+      "description": "比比是个强硬的朋克青年，从她手上的球棒和她的态度就能看出来。",
+      "hp": 5000,
+      "attack": 1400,
+      "super": "吐泡泡糖弹：穿透并弹跳，伤害 900",
+      "aim": {
+        "shape": "fan",
+        "range": 4,
+        "size": 75
+      },
+      "windupMs": 275,
+      "attackIntervalMs": 850,
+      "reloadMsPerShell": 1500
+    },
+    {
+      "id": 2,
+      "name": "Edgar",
+      "type": "强攻",
+      "description": "艾德加是个沉默寡言、行动迅速的近战斗士。他挥舞围巾发起连续攻击，并能借助超级技能飞跃战场，迅速接近敌人或脱离危险。",
+      "hp": 2800,
+      "attack": 1080,
+      "super": "飞跃：跳过障碍并获得攻速提升",
+      "aim": {
+        "shape": "rect",
+        "range": 3.3,
+        "size": 1
+      },
+      "windupMs": 150,
+      "attackIntervalMs": 670,
+      "reloadMsPerShell": 1200
+    },
+    {
+      "id": 3,
+      "name": "Mari",
+      "type": "强攻",
+      "description": "马芮是一名擅长远距离作战的精准射手。她能够沿直线快速发动攻击，利用射程优势持续压制敌人。",
+      "hp": 2400,
+      "attack": 480,
+      "super": "待定",
+      "aim": {
+        "shape": "rect",
+        "range": 8,
+        "size": 0.4
+      },
+      "windupMs": 280,
+      "attackIntervalMs": 630,
+      "reloadMsPerShell": 1500
+    },
+    {
+      "id": 4,
+      "name": "Spike",
+      "type": "强攻",
+      "description": "斯派克是一只外表可爱却十分危险的仙人掌。他会发射尖锐的仙人掌刺，对敌人造成持续压制，并用荆棘区域限制敌人的行动。",
+      "hp": 3000,
+      "attack": 600,
+      "super": "荆棘雨：范围伤害 400/秒",
+      "aim": {
+        "shape": "rect",
+        "range": 7.7,
+        "size": 0.4
+      },
+      "windupMs": 300,
+      "attackIntervalMs": 670,
+      "reloadMsPerShell": 1500
+    }
+  ]
+}

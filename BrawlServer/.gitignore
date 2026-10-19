@@ -1,0 +1,12 @@
+# 编译产物 / NuGet 还原包
+bin/
+obj/
+packages/
+
+# Visual Studio 用户态
+.vs/
+*.suo
+*.user
+
+# 课程笔记（GBK 乱码，无版本价值）
+Server.txt

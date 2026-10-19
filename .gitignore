@@ -1,0 +1,46 @@
+# Unity 自动生成
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+MemoryCaptures/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# IDE
+.vs/
+.idea/
+.vscode/
+*.swp
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# ── 本地文档（不纳入仓库，文件保留在本地） ──
+/1v1实现方案.md
+/1v1实现方案.md.bak
+/功能描述.md
+/进度.md
+/音效清单.md
+/.workbuddy/memory/
+
+# ── 打包产物（每次重打都会变，不进仓库） ──
+# 工作区的 AB 输出目录
+AssetBundles/
+# StreamingAssets：目前 100% 是"自带 v1"的 AB 拷贝，也是产物。
+# 以后若有真正要提交的文件（比如 version.txt 模板），在这里加 ! 例外
+Assets/StreamingAssets/

@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Battle_UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: fa2b1e5af3ec49a42999086d1f3b0fd8, type: 3}
+    - {fileID: 102900000, guid: 67db0d8c4e3717442ac9a93f7a2a3827, type: 3}
+    - {fileID: 102900000, guid: a39b641718c606549b4c38da14c2aae1, type: 3}
+    - {fileID: 102900000, guid: 04eff552443709e43b01450cbcf9da5c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 5c5d1301229c02d40be85fa54f5642a1: 21300000
+    - 5f6d3a01fde85de4aa67e01e8f4ffabd: 21300000
+    - 15adda314cb4e6649b453e84545459b7: 21300000
+    - 2b4bf27142209f64492e5393c716a694: 21300000
+    - d8402ab2079e2824db9f53344b702cbe: 21300000
+    - 99590724c8ca79540b6200019a713ad3: 21300000
+    - 66752b3423b69b146ad0f786b30aaab2: 21300000
+    - 1b5848461e78243489b27fd0250abc04: 21300000
+    - 9b8a9667a6161a8438e5ee676d560ee9: 21300000
+    - 2853cf87890532b4d91e49170b5040b4: 21300000
+    - 83c65888a46937b4a9b517c834f562b9: 21300000
+    - f52466d85861eee418deeed730e97077: 21300000
+    - 9289d919b41ef464ba91e1e4fdb76dc5: 21300000
+    - 1cd56949b84549848a68e58018573494: 21300000
+    - 7e99dbb932a41a34f86c3c93c7a22de9: 21300000
+    - c622cd4a1e37a2e44ae0cc0a23d0023d: 21300000
+    - 791c71bb4d486c34bab94df09595c04d: 21300000
+    - 3b036abbc25ca964abcc142c1b4dd563: 21300000
+    - e4b06b3c321f0e345a47f7244e2f74d1: 21300000
+    - 90b61d0eb58a66c48a158ac567f1f014: 21300000
+    - 8160efff27c90174e9127cdab4ac6e74: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5c5d1301229c02d40be85fa54f5642a1, type: 3}
+  - {fileID: 21300000, guid: 5f6d3a01fde85de4aa67e01e8f4ffabd, type: 3}
+  - {fileID: 21300000, guid: 15adda314cb4e6649b453e84545459b7, type: 3}
+  - {fileID: 21300000, guid: 2b4bf27142209f64492e5393c716a694, type: 3}
+  - {fileID: 21300000, guid: d8402ab2079e2824db9f53344b702cbe, type: 3}
+  - {fileID: 21300000, guid: 99590724c8ca79540b6200019a713ad3, type: 3}
+  - {fileID: 21300000, guid: 66752b3423b69b146ad0f786b30aaab2, type: 3}
+  - {fileID: 21300000, guid: 1b5848461e78243489b27fd0250abc04, type: 3}
+  - {fileID: 21300000, guid: 9b8a9667a6161a8438e5ee676d560ee9, type: 3}
+  - {fileID: 21300000, guid: 2853cf87890532b4d91e49170b5040b4, type: 3}
+  - {fileID: 21300000, guid: 83c65888a46937b4a9b517c834f562b9, type: 3}
+  - {fileID: 21300000, guid: f52466d85861eee418deeed730e97077, type: 3}
+  - {fileID: 21300000, guid: 9289d919b41ef464ba91e1e4fdb76dc5, type: 3}
+  - {fileID: 21300000, guid: 1cd56949b84549848a68e58018573494, type: 3}
+  - {fileID: 21300000, guid: 7e99dbb932a41a34f86c3c93c7a22de9, type: 3}
+  - {fileID: 21300000, guid: c622cd4a1e37a2e44ae0cc0a23d0023d, type: 3}
+  - {fileID: 21300000, guid: 791c71bb4d486c34bab94df09595c04d, type: 3}
+  - {fileID: 21300000, guid: 3b036abbc25ca964abcc142c1b4dd563, type: 3}
+  - {fileID: 21300000, guid: e4b06b3c321f0e345a47f7244e2f74d1, type: 3}
+  - {fileID: 21300000, guid: 90b61d0eb58a66c48a158ac567f1f014, type: 3}
+  - {fileID: 21300000, guid: 8160efff27c90174e9127cdab4ac6e74, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Less_hpProgress
+  - Battle
+  - bulletProgress
+  - decorate1
+  - exitBtn
+  - Group 315
+  - controller-left-navi
+  - Vector 238
+  - hpBar
+  - moveJoyStickBg
+  - BiBi
+  - Group 318
+  - Full_hpProgress
+  - Vector 161
+  - Vector 136
+  - bibi 1
+  - againBtnBg
+  - Edgar
+  - slice23_23
+  - slice08_08
+  - Variant2
+  m_RenderDataMap: {}
+  m_Tag: Battle_UI
+  m_IsVariant: 0
